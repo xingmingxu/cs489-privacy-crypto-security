@@ -5,7 +5,7 @@ import json
 LEADING_ZEROES = 5
 HASH_LENGTH = LEADING_ZEROES + 1
 # TODO: Enter your WatIAM ID here
-WatIAM_ID = "x397xu"
+WatIAM_ID = "********"
 ADMIN_ID = "admin"
 # Dict keys
 PREVIOUS_HASH_KEY = 'previous_hash'
